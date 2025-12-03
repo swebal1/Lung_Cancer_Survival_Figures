@@ -1,2 +1,1 @@
-# Lung_Cancer_Survival
-Figures in lung cancer survival determinants publication
+# Figures for survival determinants of lung cancer
