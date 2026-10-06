@@ -14,5 +14,5 @@ Depicts the annual incidence and mortality (per 100,000) between 2010 and 2021, 
 ### Publication
 This study is published in the _Journal of Thoracic Oncology_ and is cited below.
 
-Bou Zerdan M, Balaji D, Kar I, et al. P3.01.09 Survival Determinants and Socio-Demographic Disparities in Early Onset Lung Cancer in Young Adults: Insights From AI Modeling. Journal of Thoracic Oncology. 2025;20(10, Supplement 1):S402-S403. doi:10.1016/j.jtho.2025.09.755
+Kar I, Vhora F, Bou Zerdan M, Canaslan K, Balaji D, El Osta B, Balaji S, O'Reilly K, Leal T, Jain T, Ramalingam S, Steuer CE, Carlisle JW, Bozkurt S, Ardeshir-Larijani F. Survival Determinants and Sociodemographic Disparities in Early-Onset Non-Small Cell Lung Cancer. JAMA Netw Open. 2025 Oct 1;8(10):e2537307. doi: 10.1001/jamanetworkopen.2025.37307. PMID: 41082228; PMCID: PMC12519311.
 
